@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.InnerClassAndLamda;
 
 abstract class SampleClass {
     void show() {

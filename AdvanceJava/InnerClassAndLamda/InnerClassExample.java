@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.InnerClassAndLamda;
 
 class OuterClass {
     private String outerField = "Outer Field";

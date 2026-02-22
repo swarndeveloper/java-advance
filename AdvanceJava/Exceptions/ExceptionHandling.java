@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.Exceptions;
 
 class LessThanValueException extends Exception {
     public LessThanValueException(String message) {

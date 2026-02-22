@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.InnerClassAndLamda;
 
 @FunctionalInterface
 interface Calculator {

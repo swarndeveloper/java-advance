@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.Exceptions;
 
 class ExceptionValidation {
     void show() throws ClassNotFoundException {

@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.Interface;
 
 interface InnerBasicInterface {
     void display();
