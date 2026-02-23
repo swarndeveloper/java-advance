@@ -2,7 +2,7 @@ package AdvanceJava.Exceptions;
 
 class ExceptionValidation {
     void show() throws ClassNotFoundException {
-        Class.forName(  "ExceptionHandlingThrows"); 
+        Class.forName(  "Calc"); 
         System.out.println("Class is loaded successfully.");
     }
 
